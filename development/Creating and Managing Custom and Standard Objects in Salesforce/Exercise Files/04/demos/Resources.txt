@@ -1,0 +1,20 @@
+# Further Reading and Helpful Links
+
+At the very least, I would recommend skimming these links. They can go deep into details and will be overwhelming if you try to read through them all, but it will help a lot if you remember you visited one of these pages when you need more information or are diving more into the details.
+
+[Customize Fields](https://help.salesforce.com/articleView?id=customize_fields.htm&type=5)
+
+[Custom Field Types](https://help.salesforce.com/articleView?id=custom_field_types.htm&type=5)
+
+[Calculate Field Values with Formulas](https://help.salesforce.com/articleView?id=customize_formuladef.htm&type=5)
+
+[Exampled of Advanced Formula Fields](https://help.salesforce.com/articleView?id=customize_formula_best_practices.htm&type=5)
+
+# Trailheads
+
+Trailheads are a great way to get some hands-on practice
+
+[Customize a Salesforce Object](https://trailhead.salesforce.com/en/content/learn/projects/customize-a-salesforce-object)
+[Data Modeling](https://trailhead.salesforce.com/content/learn/modules/data_modeling)
+[Picklist Administration](https://trailhead.salesforce.com/en/content/learn/modules/picklist_admin)
+[Advanced Formulas](https://trailhead.salesforce.com/en/content/learn/modules/advanced_formulas)

@@ -1,0 +1,29 @@
+# Further Reading and Helpful Links
+
+At the very least, I would recommend skimming these links. They can go deep into details and will be overwhelming if you try to read through them all, but it will help a lot if you remember you visited one of these pages when you need more information or are diving more into the details.
+
+## Page Layouts
+
+[Salesforce docs for Page Layouts](https://help.salesforce.com/articleView?id=customize_layout.htm&type=5) 
+
+[Control User Access to Fields](https://help.salesforce.com/articleView?id=customize_layoutoverview.htm&type=5) - discusses the relationship between field-level security and Page Layouts.
+
+[Notes on Compact Layouts](https://help.salesforce.com/articleView?id=compact_layout_notes.htm&type=5)
+
+## Validation Rules
+
+[Salesforce docs for Validation Rules](https://help.salesforce.com/articleView?id=fields_about_field_validation.htm&type=5)
+
+[Tips for Writing Validation Rules](https://help.salesforce.com/articleView?id=fields_validation_rules_tips.htm&type=5)
+
+[Validation Rule Considerations](https://help.salesforce.com/articleView?id=fields_validation_considerations.htm&type=5)
+
+[Examples of Validation Rules](https://help.salesforce.com/articleView?id=fields_useful_field_validation_formulas.htm&type=5)
+
+# Trailheads
+
+Trailheads are a great way to get some hands-on practice
+
+[Lightning Experience Customization](https://trailhead.salesforce.com/en/content/learn/modules/lex_customization)
+
+[Formulas and Validations](https://trailhead.salesforce.com/en/content/learn/modules/point_click_business_logic)

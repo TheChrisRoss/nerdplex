@@ -1,0 +1,9 @@
+# Further Reading and Helpful Links
+
+At the very least, I would recommend skimming these links. They can go deep into details and will be overwhelming if you try to read through them all, but it will help a lot if you remember you visited one of these pages when you need more information or are diving more into the details.
+
+[Considerations for Creating and Updating Record Types and Picklists](https://help.salesforce.com/articleView?id=customize_recordtype_considerations.htm&type=5)
+
+[Limitations for Creating and Updating Record Types and Picklists](https://help.salesforce.com/articleView?id=recordtypes_picklists_limitations.htm&type=5)
+
+[Assign Page Layouts to Profiles or Record Types](https://help.salesforce.com/articleView?id=customize_layoutassign.htm&type=5)

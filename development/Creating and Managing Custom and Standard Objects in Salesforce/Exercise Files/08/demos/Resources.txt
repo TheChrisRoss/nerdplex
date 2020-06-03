@@ -1,0 +1,9 @@
+# Further Reading and Helpful Links
+
+At the very least, I would recommend skimming these links. They can go deep into details and will be overwhelming if you try to read through them all, but it will help a lot if you remember you visited one of these pages when you need more information or are diving more into the details.
+
+[Salesforce Object Reference](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_concepts.htm)
+
+[Standard Object Model ERDs](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/data_model.htm)
+
+[Contacts to Multiple Accounts](https://help.salesforce.com/articleView?id=shared_contacts_overview.htm&type=5)

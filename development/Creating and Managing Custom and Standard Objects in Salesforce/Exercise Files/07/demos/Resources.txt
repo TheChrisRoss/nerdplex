@@ -1,0 +1,9 @@
+# Further Reading and Helpful Links
+
+At the very least, I would recommend skimming these links. They can go deep into details and will be overwhelming if you try to read through them all, but it will help a lot if you remember you visited one of these pages when you need more information or are diving more into the details.
+
+[Create a Many-to-Many Relationship](https://help.salesforce.com/articleView?id=relationships_manytomany.htm&type=5)
+
+[Considerations for Relationships](https://help.salesforce.com/articleView?id=relationships_considerations.htm&type=5)
+
+[Roll-up Summary Field](https://help.salesforce.com/articleView?id=fields_about_roll_up_summary_fields.htm&type=5)
