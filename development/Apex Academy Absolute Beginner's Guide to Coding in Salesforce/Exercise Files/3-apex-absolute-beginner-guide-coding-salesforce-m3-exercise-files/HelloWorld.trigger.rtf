@@ -1,0 +1,13 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+{\fonttbl\f0\fnil\fcharset0 RobotoMono-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 trigger HelloWorld on Lead (before update) \{\
+    for (Lead l : Trigger.new) \{\
+        l.FirstName = \'91Hello\'92;\
+        l.LastName  = \'91World\'92;\
+    \}\
+\}}
