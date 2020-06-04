@@ -1,6 +1,6 @@
 # COURSE MATERIALS AND EXERCISE FILE TABLE OF CONTENTS
 
-# Business
+# BUSINESS
 
 | Title | Description | Collection | Tags
 | -------- | ----------- | ----------- | ----------- |
@@ -13,6 +13,12 @@
 | Gordon Ramsay Teaches Cooking | Gordon teaching cooking - what more could you want! | N/A | N/A |
 | Gordon Ramsay Teaches Cooking II - Restaurant Recipes at Home | Gordon Ramsay returns with a second cooking MasterClass to teach you how to prep, plate, and pair recipes that wow guests. | N/A | N/A |
 
+# CORE
+| Title | Description | Collection | Tags
+| -------- | ----------- | ----------- | ----------- |
+| Learning Spanish | In this highly effective course, we’re pleased to present an approach that turns the tables on the problems so many people face in learning a new language. | Spanish | N/A |
+| Learning Spanish II | This exciting program grounds you in the fundamentals that will help you work toward fluency, enhancing your ability to converse | Spanish | |
+| Mastering the Fundamentals of Mathematics | The veritable foundation on which all of mathematics rests! | Maths | N/A | 
 
 # CLOUD
 
