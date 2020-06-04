@@ -1,5 +1,11 @@
 # COURSE MATERIALS AND EXERCISE FILE TABLE OF CONTENTS
 
+# Business
+
+| Title | Description | Collection | Tags
+| -------- | ----------- | ----------- | ----------- |
+| Critical Business Skills for Success | What does it take to reach success in business? It all comes down to a solid grasp of the fundamentals. | N/A | N/A |
+
 # COOKING
 
 | Title | Description | Collection | Tags
