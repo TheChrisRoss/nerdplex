@@ -1,61 +1,25 @@
-README TEMPLATE FOR COURSE MATERIALS AND EXERCISE FILES
+# COURSE MATERIALS AND EXERCISE FILE TABLE OF CONTENTS
 
-# COURSE_TITLE_GOES_HERE
+# COOKING
 
-# Course Description
-CourseDescriptionGoesHere...
-
-###### More Info:  LINK_TO_MORE_INFO_GOES_HERE
-
-`Production Stidio:  `
-
-`Production Date:  `
-
-`Author/Presenter:  `
-
-About the Author:
-
-# Table of Contents
-
-| Season # | Description |
-| -------- | ----------- |
-| Season 01 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Season 02 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Season 03 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Season 04 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Season 05 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Season 06 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Season 07 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Season 08 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Season 09 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Season 10 | DESCRIPTION_INFORMATION_GOES_HERE |
-
-| Episode # | Description |
-| -------- | ----------- |
-| Episode 01 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 02 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 03 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 04 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 05 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 06 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 07 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 08 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 09 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 11 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 12 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 13 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 14 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 15 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 16 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 17 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 18 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 19 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 20 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 21 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 22 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 23 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 24 | DESCRIPTION_INFORMATION_GOES_HERE |
-| Episode 25 | DESCRIPTION_INFORMATION_GOES_HERE |
+| Title | Description | Collection | Tags
+| -------- | ----------- | ----------- | ----------- |
+| Gordon Ramsay Teaches Cooking | Gordon teaching cooking - what more could you want! | N/A | N/A |
+| Gordon Ramsay Teaches Cooking II - Restaurant Recipes at Home | Gordon Ramsay returns with a second cooking MasterClass to teach you how to prep, plate, and pair recipes that wow guests. | N/A | N/A |
 
 
-# Misc. Course Notes
+# CLOUD
+
+| Title | Description | Collection | Tags | 
+| -------- | ----------- | ----------- | ----------- |
+| Amazon Web Services (AWS) Certified 2018 | Four AWS Certifications in One Place | AWS | N/A |
+
+# DEVELOPMENT
+
+| Title | Description | Collection | Tags | 
+| -------- | ----------- | ----------- | ----------- |
+| Apex Academy Absolute Beginner's Guide to Coding in Salesforce | A crash course on how to code Apex and why learning to code will skyrocket your career. | Salesforce | Salesforce Development | 
+| Building Your First Lightning Web Component (LWC) for Salesforce | Whether you have experience with Salesforce development or just modern development tools, this course will teach you how to create your own nested web application using Lightning Web Components. You will also learn lots of helpful tips and tricks. | Salesforce | Salesforce Development | 
+| Creating and Managing Custom and Standard Objects in Salesforce | Every feature in Salesforce is built on the foundational concept of Objects. Explore the vast world of Standard and Custom Objects, dive into practical tips and considerations, and prepare yourself for the Salesforce Administration certification. | Salesforce | Salesforce Development | 
+| Modern JavaScript Bootcamp | The Modern JavaScript Bootcamp starts from scratch and builds up your knowledge of the JavaScript language. Yes, you’ll learn all the features of the language, but you’ll also learn how to use those features together to create a complete application. | JavaSccript | JavaScript Development, Best Of | 
+| Python_ Introduction to Python | Basics - very high-level stuff here. | Python | Python Development | 

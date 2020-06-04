@@ -1,6 +1,42 @@
-# TABLE OF CONTENTS
+# Modern JavaScript Bootcamp
 
-## SEASONS:
+# Course Description:
+
+The Modern JavaScript Bootcamp starts from scratch and builds up your knowledge of the JavaScript language. Yes, you’ll learn all the features of the language, but you’ll also learn how to use those features together to create a complete application.
+
+JavaScript is the most popular programming language out there, but that doesn’t mean it’s easy to learn. You end up wasting time on out-of-date courses and incomplete YouTube tutorials that talk about a JavaScript features without showing how to use them when building real-world applications.
+
+Sound familiar?
+
+I built this course to teach you how to build and launch your own JavaScript web applications.
+
+The Modern JavaScript Bootcamp starts from scratch and builds up your knowledge of the JavaScript language. Yes, you’ll learn all the features of the language, but you’ll also learn how to use those features together to create a complete application.
+
+This comprehensive course covers the modern ES6 and ES7 JavaScript features used in the real world. You’ll gain an understanding of the latest cutting-edge language features.
+
+Getting experience writing code on your own is a big part of learning JavaScript. That’s why I’ve included over 80 challenges designed to get you writing code, adding app features, and solving a wide range of problems. These challenges will give you the skills and confidence needed to create your own web application.
+
+There are no starter projects here. You’ll see what it takes to launch a JavaScript application, from the first line of code to the final deployed application.
+
+###### More Info: https://www.udemy.com/course/modern-javascript/
+
+`Production Stidio:` [Udemy](https://www.udemy.com/)
+
+`Production Date:` 2019-11
+
+`Author/Presenter:` [Andrew Mead](https://mead.io/)
+
+## About the Author:
+
+A Full-stack Developer & Teacher
+> I'm Andrew, a full-stack developer living in beautiful Philadelphia!
+> I launched my first Udemy course in 2014 and had a blast teaching and helping others. Since then, I've launched 3 courses with over 110,000 students and over 18,000 5-star reviews.
+> I currently teach JavaScript, React, and Node.
+> Before I ever heard about Udemy or thought about teaching, I created a web app development company. I've helped companies of all sizes launch production web applications to their customers. I've had the honor of working with awesome companies like Siemens, Mixergy, and Parkloco.
+> I have a Computer Science degree from Temple University, and I've been programming for just over a decade. I love creating, programming, launching, learning, teaching, and biking.
+
+
+# TABLE OF CONTENTS
 
 Each chapter (topic) is seperated into 'seasons' as to conform with the
 Plex naming standards. Please refer to the following season guide if
@@ -210,3 +246,6 @@ possible you will find the episode number and lesson description below.
 - 153 Section Intro Wrapping Up.mp4
 - 154 New AppIdea.mp4
 - 155 Bonus Where do I go from here.mp4
+
+
+# Misc. Course Notes
