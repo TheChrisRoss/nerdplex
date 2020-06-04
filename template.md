@@ -1,17 +1,15 @@
-README TEMPLATE FOR COURSE MATERIALS AND EXERCISE FILES
-
 # COURSE_TITLE_GOES_HERE
 
 # Course Description
-CourseDescriptionGoesHere...
+CourseDescriptionGoesHere
 
 ###### More Info:  LINK_TO_MORE_INFO_GOES_HERE
 
-`Production Stidio:  `
+`Production Stidio:`
 
-`Production Date:  `
+`Production Date:`
 
-`Author/Presenter:  `
+`Author/Presenter:`
 
 About the Author:
 
@@ -41,6 +39,7 @@ About the Author:
 | Episode 07 | DESCRIPTION_INFORMATION_GOES_HERE |
 | Episode 08 | DESCRIPTION_INFORMATION_GOES_HERE |
 | Episode 09 | DESCRIPTION_INFORMATION_GOES_HERE |
+| Episode 10 | DESCRIPTION_INFORMATION_GOES_HERE |
 | Episode 11 | DESCRIPTION_INFORMATION_GOES_HERE |
 | Episode 12 | DESCRIPTION_INFORMATION_GOES_HERE |
 | Episode 13 | DESCRIPTION_INFORMATION_GOES_HERE |
@@ -59,3 +58,5 @@ About the Author:
 
 
 # Misc. Course Notes
+
+Course Materials Available on GitHub: https://github.com/TheChrisRoss/nerdplex
