@@ -25,6 +25,8 @@
 | Title | Description | Collection | Tags | 
 | -------- | ----------- | ----------- | ----------- |
 | Amazon Web Services (AWS) Certified 2018 | Four AWS Certifications in One Place | AWS | N/A |
+| Azure_ Plan a Microsoft Cloud Solution | A thorough introduction to cloud computing, focusing on various Azure technologies designed to help support and protect your company | Azure | N/A | 
+
 
 # DEVELOPMENT
 
