@@ -25,6 +25,7 @@
 | Title | Description | Collection | Tags | 
 | -------- | ----------- | ----------- | ----------- |
 | Amazon Web Services (AWS) Certified 2018 | Four AWS Certifications in One Place | AWS | N/A |
+| Azure 70-534 Architecting Azure Solutions - Design an Advanced Application | Design an Advanced Application' objective domain of the Architecting Azure Solutions (70-534) | Azure | N/A | 
 | Azure_ Plan a Microsoft Cloud Solution | A thorough introduction to cloud computing, focusing on various Azure technologies designed to help support and protect your company | Azure | N/A | 
 
 
