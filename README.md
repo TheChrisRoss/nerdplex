@@ -38,3 +38,10 @@
 | Creating and Managing Custom and Standard Objects in Salesforce | Every feature in Salesforce is built on the foundational concept of Objects. Explore the vast world of Standard and Custom Objects, dive into practical tips and considerations, and prepare yourself for the Salesforce Administration certification. | Salesforce | Salesforce Development | 
 | Modern JavaScript Bootcamp | The Modern JavaScript Bootcamp starts from scratch and builds up your knowledge of the JavaScript language. Yes, you’ll learn all the features of the language, but you’ll also learn how to use those features together to create a complete application. | JavaSccript | JavaScript Development, Best Of | 
 | Python_ Introduction to Python | Basics - very high-level stuff here. | Python | Python Development | 
+
+
+# ELECTIVES
+
+| Title | Description | Collection | Tags | 
+| -------- | ----------- | ----------- | ----------- |
+| Excel - Advanced Formulas and Functions | Follow along with Excel expert Dennis Taylor as he demystifies the hundreds of formulas and functions available in Excel. | Business Software | N/A | 
