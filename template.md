@@ -1,7 +1,10 @@
 # COURSE_TITLE_GOES_HERE
 
 # Course Description
-CourseDescriptionGoesHere
+
+Course Materials Available on GitHub: https://github.com/TheChrisRoss/nerdplex
+
+CourseDescription
 
 ###### More Info:  LINK_TO_MORE_INFO_GOES_HERE
 
@@ -58,5 +61,3 @@ About the Author:
 
 
 # Misc. Course Notes
-
-Course Materials Available on GitHub: https://github.com/TheChrisRoss/nerdplex
