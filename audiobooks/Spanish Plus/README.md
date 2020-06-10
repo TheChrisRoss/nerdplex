@@ -2,20 +2,26 @@
 
 # Course Description
 
-Course Materials Available on GitHub: https://github.com/TheChrisRoss/nerdplex
+Note: No Course Materials available for this title.  Please see Course Notes on the course readme.md page.
 
-Pimsleur includes 30, 30-minute audio lessons and reading instruction as streaming or audio download accessible using the Pimsleur Mobile App, or on your computer. In addition, audio lessons can be played using the Pimsleur Skill for Amazon® Echo® devices. The course also includes an integrated Reading Booklet.
+Includes Lessons 1-10 from the Level 1 program on 5 CDs (5 hrs).
 
-###### More Info:  https://www.pimsleur.com/learn-spanish-latin-american/pimsleur-spanish-level-1/9781508255543
+The Pimsleur® Method: the easiest, fastest way to learn a new language. Completely portable, easily downloadable, and lots of fun. You’ll be speaking and understanding in no time flat!
+
+This course includes Lessons 1-10 from the Spanish Level 1 program - 5 hours of audio-only effective language learning with real-life spoken practice sessions. Get a chance to test drive the incredibly effective and efficient, world-famous Pimsleur Level 1 Program. Each lesson provides 30 minutes of spoken language practice, with an introductory conversation, and new vocabulary and structures. Detailed instructions enable you to understand and participate in the conversation. Practice for vocabulary introduced in previous lessons is included in each lesson. The emphasis is on pronunciation and comprehension, and on learning to speak Spanish.
+
+###### More Info:  
 
 `Production Stidio:` Pimsleur.com
 
 `Production Date:` 
 
 # What’s Included?
-• 30, 30-minute audio lessons
-• almost 2 hours of reading instruction to provide you with an introduction to reading Spanish designed to teach you to sound out words with correct pronunciation and accent
-• In total, 19 hours of audio, all featuring native speakers
-• A digital Reading Booklet
+- Five Disks
+- Ten Lessons
+- 5 Hours of Audio
 
 # Misc. Course Notes
+
+1. I have no idea what this course is.  I can't find it in the course listings by the title "Spanish Plus", unless it is 
+[PIMSLEUR SPANISH BASIC COURSE - LEVEL 1 LESSONS 1-10 CD](https://www.pimsleur.com/learn-spanish-latin-american/pimsleur-spanish-basic-course-level-1-lessons-1-10-cd/9780743550703) which matches the number of disks and duration - but needs verification.

@@ -4,11 +4,11 @@
 | Title | Description | Collection | Tags
 | -------- | ----------- | ----------- | ----------- |
 | [Spanish I](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20I) | Did you know that Spanish is the world’s second most commonly spoken language? For Americans, it’s one of the easiest to learn, and you won’t find anything faster or easier than the Pimsleur Method. | N/A | N/A |
-| [Spanish II](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20II) | Same as above... |||
-| [Spanish III](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20III) | Same as above... |||
-| [Spanish Plus](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20Plus) | Same as above... |||
-| [Spanish IV](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20IV) | Same as above... |||
-| [Spanish V](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20V) | Same as above... |||
+| [Spanish II](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20II) | Even knowing a little bit of Spanish will make travel to Latin America or Spanish-speaking countries a breeze. |||
+| [Spanish III](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20III) | Whether you want to travel, communicate with friends or colleagues, reconnect with family, or just understand more of what’s going on in the world, learning Spanish will expand your horizons and immeasurably enrich your life. |||
+| [Spanish Plus](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20Plus) | The best part is that it doesn’t have to be difficult or take years to master. Thirty minutes a day is all it takes, and we get you speaking right from the first day. |||
+| [Spanish IV](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20IV) | Pimsleur courses use a scientifically proven method that puts you in control of your learning. |||
+| [Spanish V](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20V) | If you’ve tried other language learning programs but found they simply didn’t stick, then you owe it to yourself to give Pimsleur a try. |||
 |||||
 
 # BUSINESS
