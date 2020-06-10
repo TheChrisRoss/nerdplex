@@ -1,4 +1,4 @@
-# PIMSLEUR SPANISH LEVEL 3
+# PIMSLEUR SPANISH PLUS
 
 # Course Description
 

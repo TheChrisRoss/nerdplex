@@ -1,4 +1,4 @@
-# PIMSLEUR SPANISH LEVEL 1
+# PIMSLEUR SPANISH LEVEL 2
 
 # Course Description
 
