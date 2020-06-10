@@ -4,7 +4,12 @@
 | Title | Description | Collection | Tags
 | -------- | ----------- | ----------- | ----------- |
 | Spanish I | Did you know that Spanish is the world’s second most commonly spoken language? For Americans, it’s one of the easiest to learn, and you won’t find anything faster or easier than the Pimsleur® Method. | N/A | N/A |
-| Spanish I - Reading Lessons | Reading Lessons begin in Lesson 2 and provide you with an introduction to reading Spanish. These lessons, which total almost 2 hours, are designed to teach you to sound out words with correct pronunciation and accent. The Reading Lessons are also combined at the end of the course. | N/A | N/A |
+| Spanish II ||||
+| Spanish III ||||
+| Spanish Plus ||||
+| Spanish IV ||||
+| Spanish V ||||
+|||||
 
 # BUSINESS
 
