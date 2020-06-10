@@ -1,9 +1,15 @@
 # COURSE MATERIALS AND EXERCISE FILE - TABLE OF CONTENTS
 
+### SYMBOL LEGEND
+
+:speaker: - Audio File
+:page_facing_up: - Document (PDF, Word Etc.)
+:: 
+
 # AUDIOBOOKS
-| Title | Description | Collection | Tags
+| Course Title | Description | Materials | Collection(s)/Tags |
 | -------- | ----------- | ----------- | ----------- |
-| [Spanish I](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20I) | Did you know that Spanish is the world’s second most commonly spoken language? For Americans, it’s one of the easiest to learn, and you won’t find anything faster or easier than the Pimsleur Method. | N/A | N/A |
+| [Spanish I](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20I) | Did you know that Spanish is the world’s second most commonly spoken language? For Americans, it’s one of the easiest to learn, and you won’t find anything faster or easier than the Pimsleur Method. | :speaker: :page_facing_up: | N/A |
 | [Spanish II](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20II) | Even knowing a little bit of Spanish will make travel to Latin America or Spanish-speaking countries a breeze. |||
 | [Spanish III](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20III) | Whether you want to travel, communicate with friends or colleagues, reconnect with family, or just understand more of what’s going on in the world, learning Spanish will expand your horizons and immeasurably enrich your life. |||
 | [Spanish Plus](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20Plus) | The best part is that it doesn’t have to be difficult or take years to master. Thirty minutes a day is all it takes, and we get you speaking right from the first day. |||
