@@ -2,11 +2,12 @@
 
 ### SYMBOL LEGEND
 
-:speaker: - Audio File(s)
-
-:page_facing_up: - Document(s) (PDF, Word Etc.)
-
-:octocat: - Code Files / Exercise Files
+| Symbol | Description | Symbol | Description |
+| ---            | ---                         | ---              | ---                           |
+| :speaker:      | Audio File(s)               | :page_facing_up: | Document(s) (PDF, Word Etc.)  |
+| :octocat:      | Code Files / Exercise Files | :speech_balloon: | Read the Fucking README       |
+| :no_entry:     | No Readme Available         | :x:              | No Course Materials Available |
+| :construction: | Work In Progress (WIP)      |                  |                               |
 
 # AUDIOBOOKS
 | Course Title | Description | Materials | Collection(s)/Tags |
