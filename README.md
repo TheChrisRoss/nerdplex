@@ -3,12 +3,12 @@
 # AUDIOBOOKS
 | Title | Description | Collection | Tags
 | -------- | ----------- | ----------- | ----------- |
-| Spanish I | Did you know that Spanish is the world’s second most commonly spoken language? For Americans, it’s one of the easiest to learn, and you won’t find anything faster or easier than the Pimsleur® Method. | N/A | N/A |
-| Spanish II ||||
-| Spanish III ||||
-| Spanish Plus ||||
-| Spanish IV ||||
-| Spanish V ||||
+| [Spanish I]() | Did you know that Spanish is the world’s second most commonly spoken language? For Americans, it’s one of the easiest to learn, and you won’t find anything faster or easier than the Pimsleur Method. | N/A | N/A |
+| [Spanish II](https://github.com/TheChrisRoss/nerdplex/tree/master/audiobooks/Spanish%20I) | Same as above... |||
+| [Spanish III] | Same as above... |||
+| [Spanish Plus] | Same as above... |||
+| [Spanish IV] | Same as above... |||
+| [Spanish V] | Same as above... |||
 |||||
 
 # BUSINESS
