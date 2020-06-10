@@ -22,20 +22,21 @@
 
 # BUSINESS
 
-| Title    | Description | Materials | Collection | Tags
+| Title    | Description | Materials | Collection | Tags |
 | -------- | ----------- | ----------- | ----------- | ------------ |
 | Critical Business Skills for Success | What does it take to reach success in business? It all comes down to a solid grasp of the fundamentals. | :page_facing_up: | N/A | N/A |
 
 # COOKING
 
-| Title    | Description | Materials | Collection | Tags
+| Title    | Description | Materials | Collection | Tags |
 | -------- | ----------- | ----------- | ----------- | ------------ |
 | Gordon Ramsay Teaches Cooking | Gordon teaching cooking - what more could you want! | :page_facing_up: | N/A | N/A |
 | Gordon Ramsay Teaches Cooking II - Restaurant Recipes at Home | Gordon Ramsay returns with a second cooking MasterClass to teach you how to prep, plate, and pair recipes that wow guests. | :page_facing_up: | N/A | N/A |
 
 # CAREER
 
-| Title    | Description | Materials | Collection | Tags
+| Title    | Description | Materials | Collection | Tags |
+| -------                                      | ---------   | ----------- | ----------- | ------------ |
 | :construction:  Creating an Effective Resume | ----------- | ----------- | ----------- | ------------ |
 | :construction:  Expert Tips for Answering Common Interview Questions | ----------- | ----------- | ----------- | ------------ |
 | :construction:  LinkedIn Profiles for Social Business Success | ----------- | ----------- | ----------- | ------------ |
