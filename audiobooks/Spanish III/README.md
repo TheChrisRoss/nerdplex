@@ -6,7 +6,7 @@ Course Materials Available on GitHub: https://github.com/TheChrisRoss/nerdplex
 
 Pimsleur includes 30, 30-minute audio lessons and reading instruction as streaming or audio download accessible using the Pimsleur Mobile App, or on your computer. In addition, audio lessons can be played using the Pimsleur Skill for Amazon® Echo® devices. The course also includes an integrated Reading Booklet.
 
-###### More Info:  https://www.pimsleur.com/learn-spanish-latin-american/pimsleur-spanish-level-1/9781508255543
+###### More Info:  https://www.pimsleur.com/learn-spanish-latin-american/pimsleur-spanish-level-3/9781442314320
 
 `Production Stidio:` Pimsleur.com
 
