@@ -66,11 +66,11 @@
 
 | Title    | Description | Materials | Collection | Tags
 | -------- | ----------- | ----------- | ----------- | ------------ |
-| Apex Academy Absolute Beginner's Guide to Coding in Salesforce | A crash course on how to code Apex and why learning to code will skyrocket your career. | :octocat: : page_facing_up: | Salesforce | Salesforce Development | 
-| Building Your First Lightning Web Component (LWC) for Salesforce | Whether you have experience with Salesforce development or just modern development tools, this course will teach you how to create your own nested web application using Lightning Web Components. You will also learn lots of helpful tips and tricks. | :octocat: : page_facing_up: | Salesforce | Salesforce Development | 
-| Creating and Managing Custom and Standard Objects in Salesforce | Every feature in Salesforce is built on the foundational concept of Objects. Explore the vast world of Standard and Custom Objects, dive into practical tips and considerations, and prepare yourself for the Salesforce Administration certification. | :octocat: : page_facing_up: | Salesforce | Salesforce Development | 
-| Modern JavaScript Bootcamp | The Modern JavaScript Bootcamp starts from scratch and builds up your knowledge of the JavaScript language. Yes, you’ll learn all the features of the language, but you’ll also learn how to use those features together to create a complete application. | :octocat: : page_facing_up: | JavaSccript | JavaScript Development, Best Of | 
-| Python_ Introduction to Python | Basics - very high-level stuff here. | :octocat: : page_facing_up: | Python | Python Development | 
+| Apex Academy Absolute Beginner's Guide to Coding in Salesforce | A crash course on how to code Apex and why learning to code will skyrocket your career. | :octocat: :page_facing_up: | Salesforce | Salesforce Development | 
+| Building Your First Lightning Web Component (LWC) for Salesforce | Whether you have experience with Salesforce development or just modern development tools, this course will teach you how to create your own nested web application using Lightning Web Components. You will also learn lots of helpful tips and tricks. | :octocat: :page_facing_up: | Salesforce | Salesforce Development | 
+| Creating and Managing Custom and Standard Objects in Salesforce | Every feature in Salesforce is built on the foundational concept of Objects. Explore the vast world of Standard and Custom Objects, dive into practical tips and considerations, and prepare yourself for the Salesforce Administration certification. | :octocat: :page_facing_up: | Salesforce | Salesforce Development | 
+| Modern JavaScript Bootcamp | The Modern JavaScript Bootcamp starts from scratch and builds up your knowledge of the JavaScript language. Yes, you’ll learn all the features of the language, but you’ll also learn how to use those features together to create a complete application. | :octocat: :page_facing_up: | JavaSccript | JavaScript Development, Best Of | 
+| Python_ Introduction to Python | Basics - very high-level stuff here. | :octocat: :page_facing_up: | Python | Python Development | 
 
 
 # ELECTIVES
