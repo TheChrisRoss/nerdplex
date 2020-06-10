@@ -2,9 +2,11 @@
 
 ### SYMBOL LEGEND
 
-:speaker: - Audio File
-:page_facing_up: - Document (PDF, Word Etc.)
-:: 
+:speaker: - Audio File(s)
+
+:page_facing_up: - Document(s) (PDF, Word Etc.)
+
+:octocat: - Code Files / Exercise Files
 
 # AUDIOBOOKS
 | Course Title | Description | Materials | Collection(s)/Tags |
