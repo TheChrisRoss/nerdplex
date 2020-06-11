@@ -26,40 +26,37 @@
 
 | Title                                                    | Description                                                                                             | Materials        | Collection | Tags |
 |:---------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------------|:-----------|:-----|
-| Analyzing Business Requirements For Data Science         |                                                                                                         |                  |            |      |
-| Artificial Intelligence_ The Big Picture of AI           |                                                                                                         |                  |            |      |
-| Business Basics                                          |                                                                                                         |                  |            |      |
-| Client and Account Management                            |                                                                                                         |                  |            |      |
-| Consumer Behaviour                                       |                                                                                                         |                  |            |      |
-| Create An Effective Content Strategy For Your Website    |                                                                                                         |                  |            |      |
-| Creative Thinking Workshop                               |                                                                                                         |                  |            |      |
+| Analyzing Business Requirements For Data Science         | :construction:                                                                                          |                  |            |      |
+| Artificial Intelligence_ The Big Picture of AI           | :construction:                                                                                          |                  |            |      |
+| Business Basics                                          | :construction:                                                                                          |                  |            |      |
+| Client and Account Management                            | :construction:                                                                                          |                  |            |      |
+| Consumer Behaviour                                       | :construction:                                                                                          |                  |            |      |
+| Create An Effective Content Strategy For Your Website    | :construction:                                                                                          |                  |            |      |
+| Creative Thinking Workshop                               | :construction:                                                                                          |                  |            |      |
 | Critical Business Skills for Success                     | What does it take to reach success in business? It all comes down to a solid grasp of the fundamentals. | :page_facing_up: | N/A        | N/A  |
-| Effective Bookkeeping & Payroll                          |                                                                                                         |                  |            |      |
-| Facebook for Business Updated                            |                                                                                                         |                  |            |      |
-| Facebook Messenger Bots for Lead Generation              |                                                                                                         |                  |            |      |
-| Freelance Bootcamp                                       |                                                                                                         |                  |            |      |
-| How to Start a Startup                                   |                                                                                                         |                  |            |      |
-| Innovation Master Class                                  |                                                                                                         |                  |            |      |
-| Introduction to Business Accounting                      |                                                                                                         |                  |            |      |
-| Introduction to Corporate Finance                        |                                                                                                         |                  |            |      |
-| Introduction to Marketing                                |                                                                                                         |                  |            |      |
-| Introduction to Operations Management                    |                                                                                                         |                  |            |      |
-| Marketing Fundamentals                                   |                                                                                                         |                  |            |      |
-| Marketing_ The Data Science of Marketing                 |                                                                                                         |                  |            |      |
-| Measuring Business Performance                           |                                                                                                         |                  |            |      |
-| Online Marketing Made Simple                             |                                                                                                         |                  |            |      |
-| Process Improvement Fundamentals                         |                                                                                                         |                  |            |      |
-| Quickbooks 2017 Essentials                               |                                                                                                         |                  |            |      |
-| Rock Social Media in 30 Minutes A Day - Twitter Facebook |                                                                                                         |                  |            |      |
-| SEO How to Drive 10x More Traffic for Free               |                                                                                                         |                  |            |      |
-| So You Want to Be An Entrepreneur                        |                                                                                                         |                  |            |      |
-| Technology and Doing What's Right                        |                                                                                                         |                  |            |      |
-| The Business Bootstrap Guide                             |                                                                                                         |                  |            |      |
-| Understanding the Lean Six Sigma Methodology             |                                                                                                         |                  |            |      |
-|                                                          |                                                                                                         |                  |            |      |
-
-
-
+| Effective Bookkeeping & Payroll                          | :construction:                                                                                          |                  |            |      |
+| Facebook for Business Updated                            | :construction:                                                                                          |                  |            |      |
+| Facebook Messenger Bots for Lead Generation              | :construction:                                                                                          |                  |            |      |
+| Freelance Bootcamp                                       | :construction:                                                                                          |                  |            |      |
+| How to Start a Startup                                   | :construction:                                                                                          |                  |            |      |
+| Innovation Master Class                                  | :construction:                                                                                          |                  |            |      |
+| Introduction to Business Accounting                      | :construction:                                                                                          |                  |            |      |
+| Introduction to Corporate Finance                        | :construction:                                                                                          |                  |            |      |
+| Introduction to Marketing                                | :construction:                                                                                          |                  |            |      |
+| Introduction to Operations Management                    | :construction:                                                                                          |                  |            |      |
+| Marketing Fundamentals                                   | :construction:                                                                                          |                  |            |      |
+| Marketing_ The Data Science of Marketing                 | :construction:                                                                                          |                  |            |      |
+| Measuring Business Performance                           | :construction:                                                                                          |                  |            |      |
+| Online Marketing Made Simple                             | :construction:                                                                                          |                  |            |      |
+| Process Improvement Fundamentals                         | :construction:                                                                                          |                  |            |      |
+| Quickbooks 2017 Essentials                               | :construction:                                                                                          |                  |            |      |
+| Rock Social Media in 30 Minutes A Day - Twitter Facebook | :construction:                                                                                          |                  |            |      |
+| SEO How to Drive 10x More Traffic for Free               | :construction:                                                                                          |                  |            |      |
+| So You Want to Be An Entrepreneur                        | :construction:                                                                                          |                  |            |      |
+| Technology and Doing What's Right                        | :construction:                                                                                          |                  |            |      |
+| The Business Bootstrap Guide                             | :construction:                                                                                          |                  |            |      |
+| Understanding the Lean Six Sigma Methodology             | :construction:                                                                                          |                  |            |      |
+|                                                          | :construction:                                                                                          |                  |            |      |
 
 # CAREER
 
