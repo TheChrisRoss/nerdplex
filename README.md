@@ -56,60 +56,67 @@
 | Technology and Doing What's Right                        | :construction:                                                                                          |                  |            |      |
 | The Business Bootstrap Guide                             | :construction:                                                                                          |                  |            |      |
 | Understanding the Lean Six Sigma Methodology             | :construction:                                                                                          |                  |            |      |
-|                                                          | :construction:                                                                                          |                  |            |      |
+|                                                          |                                                                                                         |                  |            |      |
+
 
 # CAREER
 
-| Title    | Description | Materials | Collection | Tags |
-| -------                                      | ---------   | ----------- | ----------- | ------------ |
-| :construction:  Creating an Effective Resume | ----------- | ----------- | ----------- | ------------ |
-| :construction:  Expert Tips for Answering Common Interview Questions | ----------- | ----------- | ----------- | ------------ |
-| :construction:  LinkedIn Profiles for Social Business Success | ----------- | ----------- | ----------- | ------------ |
+| Title                                                | Description    | Materials   | Collection  | Tags         |
+|:-----------------------------------------------------|:---------------|:------------|:------------|:-------------|
+| Creating an Effective Resume                         | :construction: | ----------- | ----------- | ------------ |
+| Expert Tips for Answering Common Interview Questions | :construction: | ----------- | ----------- | ------------ |
+| LinkedIn Profiles for Social Business Success        | :construction: | ----------- | ----------- | ------------ |
+|                                                      |                |             |             |              |
 
 # COOKING
 
-| Title    | Description | Materials |
-| -------- | ----------- | ----------- |
-| Gordon Ramsay Teaches Cooking | Gordon teaching cooking - what more could you want! | :page_facing_up: |
+| Title                                                         | Description                                                                                                                | Materials        |
+|:--------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|:-----------------|
+| Gordon Ramsay Teaches Cooking                                 | Gordon teaching cooking - what more could you want!                                                                        | :page_facing_up: |
 | Gordon Ramsay Teaches Cooking II - Restaurant Recipes at Home | Gordon Ramsay returns with a second cooking MasterClass to teach you how to prep, plate, and pair recipes that wow guests. | :page_facing_up: |
+|                                                               |                                                                                                                            |                  |
+
 
 # CORE
 
-| Title    | Description | Materials | Collection | Tags
-| -------- | ----------- | ----------- | ----------- | ------------ |
-| :construction:  English Grammar Bootcamp | ----------- | ----------- | ----------- | ------------ |
-| Learning Spanish | In this highly effective course, we’re pleased to present an approach that turns the tables on the problems so many people face in learning a new language. | | Spanish | N/A |
-| Learning Spanish II | This exciting program grounds you in the fundamentals that will help you work toward fluency, enhancing your ability to converse.  |  | Spanish | Spanish Learning |
-| :construction: Mastering the Fundamentals of Mathematics | The veritable foundation on which all of mathematics rests! |  | Maths | N/A |
-| :construction:  Prove It_ The Art of Mathematicial Argument | ----------- | ----------- | ----------- | ------------ |
+| Title                                       | Description                                                                                                                                                 | Materials   | Collection  | Tags             |
+|:--------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------|:------------|:-----------------|
+| English Grammar Bootcamp                    | :construction:                                                                                                                                              | ----------- | ----------- | ------------     |
+| Learning Spanish                            | In this highly effective course, we’re pleased to present an approach that turns the tables on the problems so many people face in learning a new language. |             | Spanish     | N/A              |
+| Learning Spanish II                         | This exciting program grounds you in the fundamentals that will help you work toward fluency, enhancing your ability to converse.                           |             | Spanish     | Spanish Learning |
+| Mastering the Fundamentals of Mathematics   | The veritable foundation on which all of mathematics rests!                                                                                                 |             | Maths       | N/A              |
+| Prove It_ The Art of Mathematicial Argument | :construction:                                                                                                                                              | ----------- | ----------- | ------------     |
+|                                             |                                                                                                                                                             |             |             |                  |
 
 # CLOUD
 
-| Title    | Description | Materials | Collection | Tags
-| -------- | ----------- | ----------- | ----------- | ------------ |
-| :construction:  Amazon Web Services (AWS) Certified 2018 | Four AWS Certifications in One Place.  |  | AWS | N/A |
-| :construction:  Azure 70-534 Architecting Azure Solutions - Design an Advanced Application | Design an Advanced Application' objective domain of the Architecting Azure Solutions (70-534). |  | Azure | N/A |
-| :construction:  Azure Automation | ------ | ------ | ------ | ------ |
-| :construction:  Azure DocumentDB Introduction | ------ | ------ | ------ | ------ |
-| Azure_ Plan a Microsoft Cloud Solution | A thorough introduction to cloud computing, focusing on various Azure technologies designed to help support and protect your company.  |  | Azure | N/A |
-
+| Title                                                                      | Description                                                                                                                           | Materials      | Collection | Tags   |
+|:---------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|:---------------|:-----------|:-------|
+| Amazon Web Services (AWS) Certified 2018                                   | Four AWS Certifications in One Place.                                                                                                 | :construction: | AWS        | N/A    |
+| Azure 70-534 Architecting Azure Solutions - Design an Advanced Application | Design an Advanced Application' objective domain of the Architecting Azure Solutions (70-534).                                        | :construction: | Azure      | N/A    |
+| Azure Automation                                                           | :construction:                                                                                                                        | ------         | ------     | ------ |
+| Azure DocumentDB Introduction                                              | :construction:                                                                                                                        | ------         | ------     | ------ |
+| Azure_ Plan a Microsoft Cloud Solution                                     | A thorough introduction to cloud computing, focusing on various Azure technologies designed to help support and protect your company. |                | Azure      | N/A    |
+|                                                                            |                                                                                                                                       |                |            |        |
 
 # DEVELOPMENT
 
-| Title    | Description | Materials | Collection | Tags
-| -------- | ----------- | ----------- | ----------- | ------------ |
-| Apex Academy Absolute Beginner's Guide to Coding in Salesforce | A crash course on how to code Apex and why learning to code will skyrocket your career. | :octocat: :page_facing_up: | Salesforce | Salesforce Development |
-| Building Your First Lightning Web Component (LWC) for Salesforce | Whether you have experience with Salesforce development or just modern development tools, this course will teach you how to create your own nested web application using Lightning Web Components. You will also learn lots of helpful tips and tricks. | :octocat: :page_facing_up: | Salesforce | Salesforce Development |
-| Creating and Managing Custom and Standard Objects in Salesforce | Every feature in Salesforce is built on the foundational concept of Objects. Explore the vast world of Standard and Custom Objects, dive into practical tips and considerations, and prepare yourself for the Salesforce Administration certification. | :octocat: :page_facing_up: | Salesforce | Salesforce Development |
-| :construction:  Hands On JSON | ----------- | :octocat: | JSON | ------------ |
-| Modern JavaScript Bootcamp | The Modern JavaScript Bootcamp starts from scratch and builds up your knowledge of the JavaScript language. Yes, you’ll learn all the features of the language, but you’ll also learn how to use those features together to create a complete application. | :octocat: :page_facing_up: | JavaSccript | JavaScript Development, Best Of |
-| Python_ Introduction to Python | Basics - very high-level stuff here. | :octocat: :page_facing_up: | Python | Python Development |
-| :construction:  Using ES6 in Your NodeJS Web Apps | ----------- | :octocat: | ES6 | ------------ |
+| Title                                                            | Description                                                                                                                                                                                                                                                | Materials                  | Collection  | Tags                            |
+|:-----------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------|:------------|:--------------------------------|
+| Apex Academy Absolute Beginner's Guide to Coding in Salesforce   | A crash course on how to code Apex and why learning to code will skyrocket your career.                                                                                                                                                                    | :octocat: :page_facing_up: | Salesforce  | Salesforce Development          |
+| Building Your First Lightning Web Component (LWC) for Salesforce | Whether you have experience with Salesforce development or just modern development tools, this course will teach you how to create your own nested web application using Lightning Web Components. You will also learn lots of helpful tips and tricks.    | :octocat: :page_facing_up: | Salesforce  | Salesforce Development          |
+| Creating and Managing Custom and Standard Objects in Salesforce  | Every feature in Salesforce is built on the foundational concept of Objects. Explore the vast world of Standard and Custom Objects, dive into practical tips and considerations, and prepare yourself for the Salesforce Administration certification.     | :octocat: :page_facing_up: | Salesforce  | Salesforce Development          |
+| Hands On JSON                                                    | :construction:                                                                                                                                                                                                                                             | :octocat:                  | JSON        | ------------                    |
+| Modern JavaScript Bootcamp                                       | The Modern JavaScript Bootcamp starts from scratch and builds up your knowledge of the JavaScript language. Yes, you’ll learn all the features of the language, but you’ll also learn how to use those features together to create a complete application. | :octocat: :page_facing_up: | JavaSccript | JavaScript Development, Best Of |
+| Python_ Introduction to Python                                   | Basics - very high-level stuff here.                                                                                                                                                                                                                       | :octocat: :page_facing_up: | Python      | Python Development              |
+| :construction:  Using ES6 in Your NodeJS Web Apps                | :construction:                                                                                                                                                                                                                                             | :octocat:                  | ES6         | ------------                    |
+|                                                                  |                                                                                                                                                                                                                                                            |                            |             |                                 |
 
 
 # ELECTIVES
 
-| Title    | Description | Materials | Collection | Tags
-| -------- | ----------- | ----------- | ----------- | ------------ |
-| Excel - Advanced Formulas and Functions | Follow along with Excel expert Dennis Taylor as he demystifies the hundreds of formulas and functions available in Excel. | :x:  | Business Software | N/A |
-| :construction:  DNS_ A Deep Dive on Domain Name Services | ------ | ------ | ------ | ------ |
+| Title                                    | Description                                                                                                               | Materials | Collection        | Tags   |
+|:-----------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:----------|:------------------|:-------|
+| Excel - Advanced Formulas and Functions  | Follow along with Excel expert Dennis Taylor as he demystifies the hundreds of formulas and functions available in Excel. | :x:       | Business Software | N/A    |
+| DNS_ A Deep Dive on Domain Name Services | :construction:                                                                                                            | ------    | ------            | ------ |
+|                                          |                                                                                                                           |           |                   |        |
