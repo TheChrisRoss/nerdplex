@@ -61,12 +61,32 @@
 
 # CAREER
 
-| Title                                                | Description    | Materials   | Collection  | Tags         |
-|:-----------------------------------------------------|:---------------|:------------|:------------|:-------------|
-| Creating an Effective Resume                         | :construction: | ----------- | ----------- | ------------ |
-| Expert Tips for Answering Common Interview Questions | :construction: | ----------- | ----------- | ------------ |
-| LinkedIn Profiles for Social Business Success        | :construction: | ----------- | ----------- | ------------ |
-|                                                      |                |             |             |              |
+| Title                                                                      | Description    | Materials | Collection | Tags |
+|:---------------------------------------------------------------------------|:---------------|:----------|:-----------|:-----|
+| Amazon Web Services (AWS) Certified 2018                                   | :construction: |           |            |      |
+| AWS Certified Cloud Practitioner 2020                                      | :construction: |           |            |      |
+| Azure 70-532 Developing Microsoft Azure Solutions                          | :construction: |           |            |      |
+| Azure 70-534 Architecting Azure Solutions - Design an Advanced Application | :construction: |           |            |      |
+| Azure Automation                                                           | :construction: |           |            |      |
+| Azure DocumentDB Introduction                                              | :construction: |           |            |      |
+| Azure_ AZ-900 Certification Bootcamp                                       | :construction: |           |            |      |
+| Azure_ Plan a Microsoft Cloud Solution                                     | :construction: |           |            |      |
+| Containerizing A Software Application with Docker                          | :construction: |           |            |      |
+| Develop and Deploy Windows Applications On Google Cloud Platform           | :construction: |           |            |      |
+| Essential Google Cloud Infrastructure Core Services                        | :construction: |           |            |      |
+| GCP Access and Security                                                    | :construction: |           |            |      |
+| GCP Apigee_ API Design Fundamentals for Google Cloud Apigee                | :construction: |           |            |      |
+| GCP_ Understanding Your Google Cloud Platform                              | :construction: |           |            |      |
+| Getting Started with Docker Swarm Mode                                     | :construction: |           |            |      |
+| Google Cloud Certified Architect                                           | :construction: |           |            |      |
+| Google Cloud Certified Professional Cloud Developer                        | :construction: |           |            |      |
+| Google Cloud Platform Fundamentals                                         | :construction: |           |            |      |
+| Google Kubernetes Engine - GKE Beginner to Pro                             | :construction: |           |            |      |
+| Integrating Google Cloud Platform Services                                 | :construction: |           |            |      |
+| Leveraging Load Balancing Options in GCP                                   | :construction: |           |            |      |
+| Maintaining VMs with Google Compute Engine                                 | :construction: |           |            |      |
+| Managing Docker Images                                                     | :construction: |           |            |      |
+|                                                                            | :construction: |           |            |      |
 
 # COOKING
 
