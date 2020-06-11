@@ -86,16 +86,18 @@
 | Leveraging Load Balancing Options in GCP                                   | :construction: |           |            |      |
 | Maintaining VMs with Google Compute Engine                                 | :construction: |           |            |      |
 | Managing Docker Images                                                     | :construction: |           |            |      |
-|                                                                            | :construction: |           |            |      |
+|                                                                            |                |           |            |      |
 
 # COOKING
 
 | Title                                                         | Description                                                                                                                | Materials        |
 |:--------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|:-----------------|
+| Baking Pastries and Desserts_ The Everyday Gormet             | :construction:                                                                                                             |                  |
 | Gordon Ramsay Teaches Cooking                                 | Gordon teaching cooking - what more could you want!                                                                        | :page_facing_up: |
 | Gordon Ramsay Teaches Cooking II - Restaurant Recipes at Home | Gordon Ramsay returns with a second cooking MasterClass to teach you how to prep, plate, and pair recipes that wow guests. | :page_facing_up: |
+| Making Healthy Food Taste Great_ The Everyday Gormet          | :construction:                                                                                                             |                  |
+| Rediscovering the Lost Art of Cooking_ The Everyday Gormet    | :construction:                                                                                                             |                  |
 |                                                               |                                                                                                                            |                  |
-
 
 # CORE
 
