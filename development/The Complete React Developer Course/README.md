@@ -4,8 +4,6 @@
 
 Course Materials Available on GitHub: https://github.com/TheChrisRoss/nerdplex
 
-Have you tried to learn React before?
-
 It’s easy to go down the rabbit hole of libraries and tools only to come out of it not knowing how to build and launch a real-world React application. You get things configured, but you’re not sure how the libraries fit together (or if you’re even using the right one).
 
 Sound familiar?
