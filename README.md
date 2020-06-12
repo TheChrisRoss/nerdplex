@@ -9,7 +9,7 @@
 | :no_entry:     | No Readme Available         | :x:              | No Course Materials Available |
 | :construction: | Work In Progress (WIP)*     |                  |                               |
 
-*Ask if you want course details or materials and I will priorize their availability for you.
+*Still need to add course materials, upload notes and add details on the course.
 
 # AUDIOBOOKS
 | Course Title                                                                                   | Description                                                                                                                                                                                                                       | Materials                                   | Collection(s)/Tags |
