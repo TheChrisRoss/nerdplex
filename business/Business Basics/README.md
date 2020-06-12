@@ -8,13 +8,13 @@ Leaders and product developers are asked to create value for their customers but
 
 Technology leaders and product developers are expected to create products for their organization that align seamlessly to business goals and product strategy, but many individuals find themselves in over their head with little or no education in product strategy or the market dynamics and business structure and processes that influence that strategy. In this course, Business Basics, you’ll gain an understanding of markets as defined by consumer and business behaviors and recognize the broad influence of business purpose and corporate structure and governance on product strategy. First, you’ll explore the meaning of markets and learn a couple essential basic theories of business and consumer behaviors. Next, you’ll discover how a business’s purpose is explicitly defined and shapes the behaviors of its employees. Finally, you’ll learn how to identify the impacts of corporate structure and governance on your product strategy. When you’re finished with this course, you’ll understand the key foundational elements of a business that are required to identify relevant markets and ultimately create effective product strategies.
 
-`Duration:`  0h 30m :clock1030:
-
-###### More Info:  LINK_TO_MORE_INFO_GOES_HERE
+###### More Info:  https://www.pluralsight.com/courses/business-basics
 
 `Production Stidio:`  Pluralsight
 
 `Production Date:`  May 8, 2020
+
+`Duration:`  0h 30m :clock1030:
 
 `Author/Presenter:`  Joel Lamendola
 
