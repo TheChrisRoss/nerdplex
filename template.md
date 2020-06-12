@@ -4,17 +4,23 @@
 
 Course Materials Available on GitHub: https://github.com/TheChrisRoss/nerdplex
 
-CourseDescription
+ShortDescription
+
+LongDescription
+
+`Duration:`  ...h ...m :clock1030:
 
 ###### More Info:  LINK_TO_MORE_INFO_GOES_HERE
 
-`Production Stidio:`
+`Production Stidio:`  
 
-`Production Date:`
+`Production Date:`  
 
-`Author/Presenter:`
+`Author/Presenter:`  
 
 About the Author:
+
+AboutTheAuthor
 
 # Table of Contents
 
