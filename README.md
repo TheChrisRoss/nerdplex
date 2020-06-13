@@ -105,14 +105,15 @@
 
 # COOKING
 
-| Title                                                         | Description                                                                                                                | Materials        |
-|:--------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|:-----------------|
-| Baking Pastries and Desserts_ The Everyday Gormet             | :construction:                                                                                                             |                  |
-| Gordon Ramsay Teaches Cooking                                 | Gordon teaching cooking - what more could you want!                                                                        | :page_facing_up: |
-| Gordon Ramsay Teaches Cooking II - Restaurant Recipes at Home | Gordon Ramsay returns with a second cooking MasterClass to teach you how to prep, plate, and pair recipes that wow guests. | :page_facing_up: |
-| Making Healthy Food Taste Great_ The Everyday Gormet          | :construction:                                                                                                             |                  |
-| Rediscovering the Lost Art of Cooking_ The Everyday Gormet    | :construction:                                                                                                             |                  |
-|                                                               |                                                                                                                            |                  |
+| Title                                                         | Description                                                                                                                                                                                                        | Materials            |
+|:--------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------|
+| Baking Pastries and Desserts_ The Everyday Gormet             | :construction:                                                                                                                                                                                                     |                      |
+| Cooking Basics: What Everyone Should Know                     | Whether you’re brand-new to cooking or want to up your game after years in the kitchen, these 24 easy-to-follow lessons demonstrate everything you’ll need to create a wide variety of exciting, flavorful dishes. | :page_facing_up:     |
+| Gordon Ramsay Teaches Cooking                                 | Gordon teaching cooking - what more could you want!                                                                                                                                                                | :page_facing_up:     |
+| Gordon Ramsay Teaches Cooking II - Restaurant Recipes at Home | Gordon Ramsay returns with a second cooking MasterClass to teach you how to prep, plate, and pair recipes that wow guests.                                                                                         | :page_facing_up:     |
+| Making Healthy Food Taste Great_ The Everyday Gormet          | :construction:                                                                                                                                                                                                     |                      |
+| Rediscovering the Lost Art of Cooking_ The Everyday Gormet    | :construction:                                                                                                                                                                                                     |                      |
+|                                                               |                                                                                                                                                                                                                    |                      |
 
 # CORE
 
