@@ -8,13 +8,13 @@ ShortDescription
 
 LongDescription
 
-`Duration:`  ...h ...m :clock1030:
-
 ###### More Info:  LINK_TO_MORE_INFO_GOES_HERE
 
 `Production Stidio:`  
 
 `Production Date:`  
+
+`Duration:`  ...h ...m :clock1030:
 
 `Author/Presenter:`  
 
